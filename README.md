@@ -8,6 +8,11 @@
 
 做一些相关的记录。
 
+<details>
+	<summary> 微信打赏 </summary>
+	![WeChat-Money](https://tva1.sinaimg.cn/large/007S8ZIlgy1gdpnmfxj9ej30bh0hegnu.jpg)
+</details>
+
 
 ---
 
