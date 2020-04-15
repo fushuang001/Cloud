@@ -9,8 +9,8 @@
 做一些相关的记录。
 
 <details>
-	<summary> 微信打赏 </summary>
-	![WeChat-Money](https://tva1.sinaimg.cn/large/007S8ZIlgy1gdpnmfxj9ej30bh0hegnu.jpg)
+    <summary> 加个微信，闲聊两句 </summary>
+    <img src="https://tva1.sinaimg.cn/large/00831rSTgy1gdog9ekd70j30u012v42w.jpg" style="zoom:30%" alt="微信-扫一扫添加好友" />
 </details>
 
 
